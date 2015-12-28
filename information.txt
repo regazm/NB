@@ -1,0 +1,23 @@
+winchdesign@email.com - email
+
+%M2_HOME%\bin;%JAVA_HOME%;%Path%;C:\Program Files\Java\jdk1.8.0_60
+
+learn java simply full
+
+int len = s.length();
+
+   // int b = 3, c, len, u;
+ /*       c = a+b;
+        String d = "Bugatti ", s = "car", result;
+        len = s.length();
+        u = d.indexOf("t");
+
+        result = d.substring(0,6);
+
+       // System.out.println("quantity of "+s+"= "+len);*/
+
+значения а и б считывается с клавы (System.in.read())...
+
+        System.out.println ("Enter a");
+        Scanner sc = new Scanner(System.in);
+        a = sc.nextInt();

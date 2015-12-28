@@ -1,0 +1,31 @@
+﻿Hometask:
+
+install GIT, 
+register on GitHub http://webhamster.ru/site/page/index/articles/comp/171
+есть мастер - критические моменты, которые получились
+открываем ветку - туда комитим свои изменения
+из комита делаем слияние файлов
+поискать в ГитХаб готовые решения
+http://githowto.com/ru - пройти все пункты по обучаловке
+
+[div.popular-categories-items-tr:nth-child(1) > a:nth-child(2) > span:nth-child(1)]
+
+//div[@class='popular-categories-items']/div/a[2]/span:nth-child(1)
+
+div.popular-categories-items-tr:nth-child(1) > a:nth-child(2) > span:nth-child(2)
+
+http://rozetka.com.ua/news-articles-promotions/promotions/Tefal_Moulinex_Rowenta_3457.html
+div.promo-cat-i:nth-child(5) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > a:nth-child(1)
+
+К акционным товарам от 1000 гривен дарим сковороду!
+
+<a class="promo-cat-i-summary-link novisited" href="http://rozetka.com.ua/news-articles-promotions/promotions/Tefal_Moulinex_Rowenta_3457.html">К акционным товарам от 1000 гривен дарим сковороду!</a>
+
+clearfix promo-cat-i-info-containe
+
+//div[@name='promotions_list']
+
+some changes
+				
+
+
